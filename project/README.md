@@ -17,7 +17,7 @@ Shared code: `common/llm.py` (one client for OpenAI-compatible APIs, Ollama, or 
 
 ## Setup (5 minutes)
 ```bash
-git clone https://github.com/<your-username>/ai-agents-explained.git
+git clone https://github.com/SahinurDEV/ai-agents-explained.git
 cd ai-agents-explained
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
